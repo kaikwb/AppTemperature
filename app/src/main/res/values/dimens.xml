@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_margin_top">60dp</dimen>
+    <dimen name="title_font_size">24sp</dimen>
+    <dimen name="seekbar_margin_top">72dp</dimen>
+    <dimen name="seekbar_width">250dp</dimen>
+    <dimen name="seekbar_height">48dp</dimen>
+    <dimen name="labels_margin_top">32dp</dimen>
+    <dimen name="value_margin_top">20dp</dimen>
+    <dimen name="label_text_size">16sp</dimen>
+    <dimen name="value_text_size">16sp</dimen>
+</resources>

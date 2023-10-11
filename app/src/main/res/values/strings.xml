@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTemperature</string>
+    <string name="app_title">Temperature Converter</string>
+    <string name="label_kelvin">Kelvin</string>
+    <string name="label_celsius">Celsius</string>
+    <string name="label_fahrenheit">Fahrenheit</string>
+</resources>
